@@ -1,0 +1,14 @@
+pane	gold	1	:gold	1	:*	1	:/mnt/hdd/hdd_workspace/binutils-project/binutils-gdb/gold	1	nvim	:nvim main.cc
+pane	gold	1	:gold	1	:*	2	:/mnt/hdd/hdd_workspace/binutils-project/build/gold	0	sh	:sh /tmp/ld-run-big.gold.sh debug
+pane	gold	2	:gold-build	0	:-	1	:/mnt/hdd/hdd_workspace/binutils-project/build/gold	1	zsh	:
+pane	gold	3	:zsh	0	:	1	:/home/migsaldivar/workspace/misc/tmux-resurrect	1	zsh	:
+pane	lld	1	:lld	1	:*	1	:/mnt/hdd/hdd_workspace/llvm-project/lld	1	zsh	:
+pane	lld	2	:lld	0	:#-	1	:/home/migsaldivar	1	zsh	:
+pane	misc	1	:nvim	1	:*	1	:/home/migsaldivar/workspace/rust/many_linked_list/lists	1	nvim	:nvim src/third.rs
+window	gold	1	1	:*	a4f3,255x65,0,0{127x65,0,0,1,127x65,128,0,8}
+window	gold	2	0	:-	c660,255x65,0,0,3
+window	gold	3	0	:	c661,255x65,0,0,4
+window	lld	1	1	:*	c662,255x65,0,0,5
+window	lld	2	0	:#-	c663,255x65,0,0,6
+window	misc	1	1	:*	c664,255x65,0,0,7
+state	gold	lld

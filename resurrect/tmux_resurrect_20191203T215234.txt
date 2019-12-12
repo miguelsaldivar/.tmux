@@ -1,0 +1,21 @@
+pane	0	1	:zsh	1	:*	1	:/home/migsaldivar	1	zsh	:
+pane	4	1	:vagrant	0	:#	1	:/home/migsaldivar/workspace/misc/ctfs	1	zsh	:
+pane	4	2	:zsh	0	:-	1	:/home/migsaldivar/Downloads	1	zsh	:
+pane	4	3	:zsh	1	:*	1	:/home/migsaldivar/workspace/misc/ctfs/advent_overthewire_2019/day3	1	zsh	:
+pane	gold	1	:gold	1	:*	1	:/mnt/hdd/hdd_workspace/binutils-project/binutils-gdb/gold	1	nvim	:nvim testsuite/Makefile.in
+pane	gold	2	:gold-build	0	:#-	1	:/mnt/hdd/hdd_workspace/binutils-project/build/gold/testsuite	1	zsh	:
+pane	gold	3	:zsh	0	:#	1	:/home/migsaldivar/workspace/misc/tmux-resurrect	1	zsh	:
+pane	lld	1	:lld	1	:*	1	:/mnt/hdd/hdd_workspace/llvm-project/lld	1	zsh	:
+pane	lld	2	:lld	0	:#-	1	:/home/migsaldivar	1	zsh	:
+pane	misc	1	:nvim	1	:*	1	:/home/migsaldivar/workspace/rust/many_linked_list/lists	1	nvim	:nvim src/third.rs
+window	0	1	1	:*	c65d,255x65,0,0,0
+window	4	1	0	:#	c65e,255x65,0,0,1
+window	4	2	0	:-	c65f,255x65,0,0,2
+window	4	3	1	:*	c660,255x65,0,0,3
+window	gold	1	1	:*	c661,255x65,0,0,4
+window	gold	2	0	:#-	c662,255x65,0,0,5
+window	gold	3	0	:#	c663,255x65,0,0,6
+window	lld	1	1	:*	c664,255x65,0,0,7
+window	lld	2	0	:#-	c665,255x65,0,0,8
+window	misc	1	1	:*	c666,255x65,0,0,9
+state	4	0
