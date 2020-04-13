@@ -1,0 +1,10 @@
+pane	2	1	:nvim	1	:*	1	:/mnt/hdd/hdd_workspace/linux	1	nvim	:nvim fs/binfmt_elf.c
+pane	gold	1	:zsh	1	:*	1	:/mnt/hdd/hdd_workspace/binutils-project/binutils-gdb/gold	1	zsh	:
+pane	rust	1	:zsh	1	:*	1	:/home/migsaldivar/workspace/rust/cpp_demangle/c_api/test	1	zsh	:
+pane	rust	1	:zsh	1	:*	2	:/mnt/hdd/hdd_workspace/binutils-project/binutils-gdb/binutils	0	nvim	:nvim cxxfilt.c
+pane	rust	2	:zsh	0	:-	1	:/home/migsaldivar/workspace/rust/regex/regex-capi/ctest	1	zsh	:
+window	2	1	1	:*	d043,170x49,0,0,6
+window	gold	1	1	:*	d03d,170x49,0,0,0
+window	rust	1	1	:*	a4f6,255x65,0,0{127x65,0,0,4,127x65,128,0,8}
+window	rust	2	0	:-	c662,255x65,0,0,5
+state	rust	

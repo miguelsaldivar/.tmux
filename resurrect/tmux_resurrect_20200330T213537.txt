@@ -1,0 +1,11 @@
+pane	cpp_demangle	1	:zsh	1	:*	1	:/home/migsaldivar/workspace/rust/cpp_demangle	1	zsh	:
+pane	gold	1	:gold	1	:*	1	:/home/migsaldivar	1	zsh	:
+pane	gold	2	:vagrant	0	:#-	1	:/mnt/hdd/hdd_workspace/binutils-project	1	vagrant	:vagrant ssh
+pane	lld	1	:zsh	1	:*	1	:/mnt/hdd/hdd_workspace/llvm-project/lld	1	zsh	:
+pane	random	1	:nvim	1	:*	1	:/home/migsaldivar/workspace/cpp/threading	1	nvim	:nvim cond_var.cc
+window	cpp_demangle	1	1	:*	c49d,284x74,0,0,0
+window	gold	1	1	:*	c65e,255x65,0,0,1
+window	gold	2	0	:#-	c662,255x65,0,0,5
+window	lld	1	1	:*	c65f,255x65,0,0,2
+window	random	1	1	:*	c664,255x65,0,0,7
+state	random	lld

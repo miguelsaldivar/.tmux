@@ -1,0 +1,21 @@
+pane	0	1	:zsh	1	:*	1	:/home/migsaldivar	1	zsh	:
+pane	2	1	:neomutt	1	:*	1	:/home/migsaldivar	1	zsh	:
+pane	gold	1	:nvim	0	:#-	1	:/mnt/hdd/hdd_workspace/binutils-project/binutils-gdb/gold	1	nvim	:nvim output.cc +4445
+pane	gold	2	:gdb	0	:	1	:/mnt/hdd/hdd_workspace/binutils-project/test/gold/working-copy-test	1	zsh	:
+pane	gold	3	:zsh	0	:#	1	:/mnt/hdd/hdd_workspace/binutils-project/test/gold/copy-test	0	zsh	:
+pane	gold	3	:zsh	0	:#	2	:/mnt/hdd/hdd_workspace/binutils-project/test/gold/working-copy-test	1	zsh	:
+pane	gold	4	:zsh	1	:*	1	:/mnt/hdd/hdd_workspace/binutils-project/build/gold	1	zsh	:
+pane	gold	4	:zsh	1	:*	2	:/mnt/hdd/hdd_workspace/binutils-project/test/gold/working-copy-test	0	zsh	:
+pane	rust	1	:zsh	0	:-	1	:/home/migsaldivar/workspace/rust/cpp_demangle	1	bash	:bash /home/migsaldivar/.pyenv/libexec/pyenv-rehash
+pane	rust	2	:nvim	1	:*	1	:/mnt/hdd/hdd_workspace/binutils-project/binutils-gdb/libiberty	1	nvim	:nvim cp-demangle.c
+pane	rust	3	:zsh	0	:#	1	:/mnt/hdd/hdd_workspace/gcc-project/gcc	1	zsh	:
+window	0	1	1	:*	c65d,255x65,0,0,0
+window	2	1	1	:*	c65e,255x65,0,0,1
+window	gold	1	0	:#-	c65f,255x65,0,0,2
+window	gold	2	0	:	c660,255x65,0,0,3
+window	gold	3	0	:#	24f5,255x65,0,0{127x65,0,0,4,127x65,128,0,5}
+window	gold	4	1	:*	24f8,255x65,0,0{127x65,0,0,6,127x65,128,0,7}
+window	rust	1	0	:-	c665,255x65,0,0,8
+window	rust	2	1	:*	c666,255x65,0,0,9
+window	rust	3	0	:#	635f,255x65,0,0,10
+state	gold	rust
